@@ -1,1 +1,1 @@
-this is my practice. i am doing git.
+this is my practice. i am doing git. i am tring to pull.
